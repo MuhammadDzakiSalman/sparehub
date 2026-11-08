@@ -8,7 +8,7 @@ Aplikasi web sederhana untuk pencatatan peminjaman dan pengembalian alat di pos 
 
 1. **Clone repositori dan masuk ke direktori proyek:**
    ```bash
-   git clone [<url-repository>](https://github.com/MuhammadDzakiSalman/sparehub.git)
+   git clone https://github.com/MuhammadDzakiSalman/sparehub.git
    cd sparehub
    ```
 
